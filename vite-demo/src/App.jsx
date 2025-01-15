@@ -10,7 +10,8 @@ function App() {
     <>
       <Header />
       <main>
-      <Greeting />
+      <Greeting message = "Hello, I am a React component!" />
+      <Greeting message = "Hello, I am the same React component with different text!" />
       <List />
       </main>
       <Footer />

@@ -38,6 +38,11 @@ Skicka en pull request om du vill förbättra projektet.
 
 # Övningar
 
+# Greeting Component
+
+## Purpose
+The Greeting component is a functional React component designed to display customizable messages using props
+
 ## Komponenter
 
 Övningar ligger i den ordning de är tänkt att göra men självklart kan man ta och göra dem i den ordning man vill.
